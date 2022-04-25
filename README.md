@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **H-Indiana-Holdsworth/H-Indiana-Holdsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center">
+ <img style="display: block; margin: auto" src="https://github-readme-stats.vercel.app/api?username=h-indiana-holdsworth&hide=stars,issues&show_icons=true&theme=tokyonight" alt="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)">
+</p>
